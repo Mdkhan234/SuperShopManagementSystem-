@@ -43,20 +43,8 @@ Edit
 │   ├── PurchaseService.java
 │
 ├── Main.java
-├── README.md
-⚙️ How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/super-shop-management-system.git
-cd super-shop-management-system
-Open the project in your IDE (IntelliJ, NetBeans, or Eclipse).
 
-Compile and run Main.java.
-
-Optionally, use JavaFX or Swing for GUI.
 
 💡 Future Enhancements
 ✅ Barcode Scanner Integration
