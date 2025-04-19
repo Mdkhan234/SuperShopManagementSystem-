@@ -1,10 +1,10 @@
-Project Description: Super Shop Management System
+Project Description: Super Shop Management System  
 The Super Shop Management System is a Java-based desktop application that enables efficient management of a retail store’s core operations. It is built using Object-Oriented Programming principles in Java and is designed to streamline inventory management, user authentication, product purchasing, and reporting.
 This system supports two main user roles:
 Admin – Full control over the system (product, stock, purchase report, etc.)
 Customer – Can browse products, add to cart, and make purchases
 
-Admin Key
+Admin Key 
 To access the admin dashboard, use the following credentials during login:
 Username: admin  
 Password: admin123
