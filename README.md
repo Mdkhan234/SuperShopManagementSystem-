@@ -47,7 +47,6 @@ src/
  │   └── PurchaseService.java
  └── Main.java
 
-
 Getting Started
 Clone or download the repository.
 Open the project in your Java IDE.
